@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: practice_2
+
+  profiles:
+    active: dev

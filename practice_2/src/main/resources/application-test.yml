@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+app:
+  name: Spring Boot Testing
+  version: 1.0-TEST
+  message: Hello from TEST profile!
